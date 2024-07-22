@@ -8,7 +8,7 @@ Video overview: https://link.sahandsoleimani.ir/project.cs50sql
 
 Purpose:
 
-The purpose of this database is to manage personal finances. It helps users track their income, expenses, budgets, and account balances. This allows users to see where their money is going and helps in planning their finances better.
+* The purpose of this database is to manage personal finances. It helps users track their income, expenses, budgets, and account balances. This allows users to see where their money is going and helps in planning their finances better.
 
 
 In-Scope:
