@@ -13,17 +13,17 @@ Purpose:
 
 In-Scope:
 
-Users: Individuals who want to manage their personal finances.
-Accounts: Different bank accounts and cash reserves.
-Transactions: Records of income and expenses.
-Budgets: Financial goals and spending limits.
+* Users: Individuals who want to manage their personal finances.
+* Accounts: Different bank accounts and cash reserves.
+* Transactions: Records of income and expenses.
+* Budgets: Financial goals and spending limits.
 
 
 Out-of-Scope:
 
-Investment tracking or trading.
-Loan management or credit score tracking.
-Detailed tax management.
+* Investment tracking or trading.
+* Loan management or credit score tracking.
+* Detailed tax management.
 
 ## Functional Requirements
 
